@@ -17,7 +17,10 @@
   </registry>
   <node concept="2ny8Li" id="5jOG5LZpkHm">
     <node concept="2ny8Lj" id="5jOG5LZp$VV" role="2ny8Jp">
-      <property role="2ny8Lc" value="üäö§$%&amp;ß~∞" />
+      <property role="2ny8Lc" value="üäö§$%&amp;ß~∞¬”#£ÍÍÌÌ◊◊‡ŒŒŒÆÆÆ°°’’’—" />
+    </node>
+    <node concept="2ny8Lj" id="3PSgqYPCt_9" role="2ny8Jp">
+      <property role="2ny8Lc" value="" />
     </node>
   </node>
 </model>
